@@ -5,6 +5,9 @@ function weekendChecker(date){
        {
          return "This is the weekend"
         } 
+    else {
+      return "Weekday"
+    }
     
         
 }
